@@ -3,8 +3,3 @@ mj:
     type: in_memory
     timeout: 30d
   translate-way: null
-  discord: 
-    guild-id: 1149628213916618762
-    channel-id: 1149628213916618765
-    user-token: "MTE0NjA4NDcwNjI0NTQyNzI4NA.GrkNs4.HLtPhrSEwyVQ2L4rIVLnO7c-Se7olQg7dwNees"
-  api-secret: blake123
